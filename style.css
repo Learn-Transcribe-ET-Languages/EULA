@@ -1,0 +1,35 @@
+* {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.title {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 700;
+    margin: 0;
+}
+
+h1,
+h2 {
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 60px;
+}
+
+h2 {
+    font-size: 32px;
+    line-height: 48px;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
